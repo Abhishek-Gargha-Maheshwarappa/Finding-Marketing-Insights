@@ -116,7 +116,7 @@ Customer lifetime value, lifetime customer value, or life-time value is a predic
  
 - According to the cohort analysis table January has the highest rate of retention that is 16 percent 
   
-  ### **RFM Analysis**
+ ### **RFM Analysis**
   
 - Using insights from this we were able to categorize customers into three segments : Gold, Silver and Bronze.
 
