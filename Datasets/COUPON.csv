@@ -1,0 +1,52 @@
+Product Category ,Coupon Code,Discount %
+Apparel,SALE10,10
+Apparel,SALE20,20
+Apparel,SALE30,30
+Nest-USA,ELEC10,10
+Nest-USA,ELEC20,20
+Nest-USA,ELEC30,30
+Office,OFF10,10
+Office,OFF20,20
+Office,OFF30,30
+Drinkware,EXTRA10,10
+Drinkware,EXTRA20,20
+Drinkware,EXTRA30,30
+Lifestyle,EXTRA10,10
+Lifestyle,EXTRA20,20
+Lifestyle,EXTRA30,30
+Bags,AIO10,10
+Bags,AIO20,20
+Bags,AIO30,30
+Notebooks,NOTES10,10
+Notebooks,NOTES20,20
+Notebooks,NOTES30,30
+Headgear,HGEAR10,10
+Headgear,HGEAR20,20
+Headgear,HGEAR30,30
+Nest,NE10,10
+Nest,NE20,20
+Nest,NE30,30
+Waze,WEMP10,10
+Waze,WEMP20,20
+Waze,WEMP30,30
+Bottles,BT10,10
+Bottles,BT20,20
+Bottles,BT30,30
+Nest-Canada,NCA10,10
+Nest-Canada,NCA20,20
+Nest-Canada,NCA30,30
+Housewares,HOU10,10
+Housewares,HOU20,20
+Housewares,HOU30,30
+Accessories,ACC10,10
+Accessories,ACC20,20
+Accessories,ACC30,30
+Gift Cards,GC10,10
+Gift Cards,GC20,20
+Gift Cards,GC30,30
+Notebooks & Journals,NJ10,10
+Notebooks & Journals,NJ20,20
+Notebooks & Journals,NJ30,30
+Android,AND10,10
+Android,AND20,20
+Android,AND30,30
